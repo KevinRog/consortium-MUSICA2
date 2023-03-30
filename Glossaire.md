@@ -1,7 +1,5 @@
 # Glossaire technique du Consortium MUSICA2
 
----
-
 ## Milieu numérique
 
 ### Document
@@ -10,8 +8,6 @@
 ### Web
 ### Base de données
 ### Web sémantique
-
----
 
 ## Du côté des sources
 
