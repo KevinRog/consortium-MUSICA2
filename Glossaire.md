@@ -4,9 +4,9 @@
 
 ### Document
 ### Donnée
+### Base de données
 ### Internet
 ### Web
-### Base de données
 ### Web sémantique
 
 ## Du côté des sources
