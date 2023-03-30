@@ -1,4 +1,4 @@
-# Glossaire 
+# Glossaire du Consortium MUSICA2
 
 ## Milieu numérique
 
