@@ -11,6 +11,7 @@
 
 ## Du côté des sources
 
+### XML
 ### TEI
 ### MEI/MusicXML
 ### IIIF
@@ -18,16 +19,20 @@
 ## Du côté des données
 
 ### Modèle conceptuel de données
-### Base de données relationnelle
+### Base de données relationnelle, SQL
+### RDF, graphe de connaissances, SPARQL
 ### Référentiel
 ### Thésaurus
-### Base de données graphe
+### SKOS
 ### Ontologie (classes, relations)
 ### CIDOC-CRM
+### FRBRoo/LRMoo
 
 ## Culture technique informatique
 
 ### Logiciel ? Programme ? Outil ? Interface ?
+### CMS
 ### HTML/CSS
 ### JavaScript
 ### Python
+### Framework
