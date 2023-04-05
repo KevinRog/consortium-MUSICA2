@@ -8,6 +8,8 @@
 ### Internet
 ### Web
 ### Web sémantique
+### JSON
+### API
 
 ## Du côté des sources
 
@@ -27,6 +29,7 @@
 ### Ontologie (classes, relations)
 ### CIDOC-CRM
 ### FRBRoo/LRMoo
+### Les sérialiations du RDF
 
 ## Culture technique informatique
 
