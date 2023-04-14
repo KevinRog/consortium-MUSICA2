@@ -7,6 +7,7 @@
 - Base de données
 - Internet
 - Web
+- Notion d'adressabilité
 - Web sémantique
 - JSON
 - API
