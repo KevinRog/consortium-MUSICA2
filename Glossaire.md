@@ -11,6 +11,7 @@
 - Web sémantique
 - JSON
 - API
+- Format
 
 ## Du côté des sources
 
